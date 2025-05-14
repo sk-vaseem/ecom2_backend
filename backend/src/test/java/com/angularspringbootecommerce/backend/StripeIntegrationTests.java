@@ -14,7 +14,7 @@ public class StripeIntegrationTests {
 
     @BeforeAll
     static void setupTest() {
-        Stripe.apiKey = "sk_test_51NiZKsLtTFoBOb8wTg4V2C3bJqrQ53qMHLusPXct6hp0O3yNtHXfEITKl7bLHNPRG7Egk28A5d1X7H4yoCvUl5kF00OP3VpgCr";
+        //Stripe.apiKey = "sk_test_51NiZKsLtTFoBOb8wTg4V2C3bJqrQ53qMHLusPXct6hp0O3yNtHXfEITKl7bLHNPRG7Egk28A5d1X7H4yoCvUl5kF00OP3VpgCr";
     }
 
     @Test
